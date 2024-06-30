@@ -1,2 +1,3 @@
-# Simple MNIST image classification
-Using Neural Networks from **Tensorflow/Keras**
+# Completed Stuff:
+## MNIST Image Classification
+Using Neural Networks from Tensorflow/Keras
